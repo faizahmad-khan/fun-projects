@@ -21,10 +21,14 @@ To run this game, you'll need to have Python 3.x installed on your computer.
 1. Get the Code
 You can get the code by cloning the repository or downloading the ZIP file.
 
-     https://github.com/faizahmad-khan
+     https://github.com/faizahmad-khan 
 
-2. Run the Game
-3. Open your terminal or command prompt, navigate to the project directory, and run the main file with the following command:
+    OR
+
+     https://github.com/faizahmad-khan/fun-projects/blob/main/game.py
+
+3. Run the Game
+4. Open your terminal or command prompt, navigate to the project directory, and run the main file with the following command:
 
      python3 game.py
 
